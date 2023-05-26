@@ -1,4 +1,4 @@
-# Oppgave: Beregn Gjennomsnittet 
+# Oppgave - Beregn Gjennomsnittet 
 
 ## Beskrivelse: 
 
@@ -58,3 +58,5 @@ class Program
 }
 ```
 
+## Mål
+Repetere grunnleggende C#-konsepter som variabler, brukerinteraksjon, inndatavalidering, aritmetiske operasjoner og formatering av utdata.
