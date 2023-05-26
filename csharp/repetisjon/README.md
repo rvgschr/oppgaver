@@ -5,4 +5,5 @@ Woho! Da skal vi øve litt på C#, noe er kjent noe er kanskje ukjent. Uansett s
 Start med den oppgaven du føler deg komfortabel med. 
 
 [Oppgave 1 - Gjennomsnitt](Oppgave_1-Gjennomsnitt.md)
+
 [Oppgave 2 - Gjettespill](Oppgave_2-Gjettespill.md)
